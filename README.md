@@ -115,3 +115,4 @@ The `WindTurbineEnv` simulates the dynamics of a wind turbine:
 This project is open-source and free to use for educational and research purposes.
 
 --- 
+Paper link - https://docs.google.com/document/d/1k6auOum3qsnu-vE1WTFi54E_e2MM7xW4/edit?usp=sharing&ouid=113082304330739098797&rtpof=true&sd=true
